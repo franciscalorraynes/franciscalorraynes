@@ -1,7 +1,7 @@
 
   Hi, I'm **Francisca Lorrayne**
   
-- 🔭 I’m currently working on [System Automation with Python]([https://github.com/franciscalorraynes/projeto-da-faculdade](https://github.com/franciscalorraynes/Automacao-de-Sistemas-com-Python))
+- 🔭 I’m currently working on [System Automation with Python](https://github.com/franciscalorraynes/projeto-da-faculdade)
 - 🌱 I’m currently learning **Python, JavaScript, Django**
 - 📫 How to reach me **franciscalorrayne9@gmail.com**
 - A passionate backend developer and neural networks from Brazil
