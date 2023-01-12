@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Francisca Lorrayne</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscalorraynes&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on [System Automation with Python](https://github.com/franciscalorraynes/Automacao-de-Sistemas-com-Python)
+- 🔭 I’m currently working on [Web Automation and Information Search with Python](https://github.com/franciscalorraynes/-Automa-o-Web-e-Busca-de-Informa-es-com-Python)
 - 🌱 I’m currently learning **Python, JavaScript, Django**
 - 📫 How to reach me **franciscalorrayne9@gmail.com**
 <br><br>
