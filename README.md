@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscalorraynes&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on [Web Automation and Information Search with Python](https://github.com/franciscalorraynes/-Automa-o-Web-e-Busca-de-Informa-es-com-Python)
-- 🌱 I’m currently learning **Python, JavaScript, Django**
+- 🌱 I’m currently learning **Python, Django, C# and SQL**
 - 📫 How to reach me **franciscalorrayne9@gmail.com**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
