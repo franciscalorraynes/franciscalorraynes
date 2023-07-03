@@ -15,7 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=jupyter)&nbsp;
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
 
 <br><br>
 ## Contact
