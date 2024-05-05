@@ -32,8 +32,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 ![ JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)
-
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
