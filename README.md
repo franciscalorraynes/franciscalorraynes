@@ -25,6 +25,7 @@
 
 ### Estatísticas do GitHub:
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franciscalorraynes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=franciscalorraynes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscalorraynes&layout=compact&theme=radical"/>
 </div>
+
