@@ -2,7 +2,7 @@
 
 **Backend Developer | Estagiária de BI**
 ### Sobre mim:
-- 🎂 26 anos, brasileira 🇧🇷  
+- 🎂 27 anos, brasileira 🇧🇷  
 - 👩‍💻 Desenvolvedora focada em backend e estagiária na área de **Business Intelligence (BI)**  
 - 📚 Atualmente aprendendo **TypeScript**, **Flask**, e **Verilog**  
 - 💌 Contato: santosfranciscalorrayne@gmail.com  
