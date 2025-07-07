@@ -1,6 +1,6 @@
 # Olá! Eu sou Francisca Lorrayne 👋
 
-**Backend Developer | Estagiária de BI**
+**Backend Developer | Analista de dados**
 ### Sobre mim:
 - 🎂 27 anos, brasileira 🇧🇷  
 - 👩‍💻 Desenvolvedora focada em backend e estagiária na área de **Business Intelligence (BI)**  
