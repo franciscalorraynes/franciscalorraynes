@@ -13,7 +13,7 @@
 ### Experiência:
 - **Estágio em Business Intelligence (BI)**  
   - **Atuação:** Apoio na análise de dados e auxílio em processos de integração e visualização de dados.
-  - **Ferramentas:** Power BI, SQL, Excel, Python
+  - **Ferramentas:** Power BI, Excel, Python
 
 ---
 
