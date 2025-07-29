@@ -18,8 +18,8 @@
 ---
 
 ### Linguagens e Ferramentas:
-- 🛠️ **Linguagens:** Python, Java, C, JavaScript, TypeScript  
-- ⚙️ **Ferramentas:** MySQL, Power BI, Visual Studio Code, Flask, Jupyter Notebook  
+- 🛠️ **Linguagens:** Python, Java, C, JavaScript, TypeScript
+- ⚙️ **Ferramentas:** Power BI, Visual Studio Code, Flask, Jupyter Notebook  
 
 ---
 
