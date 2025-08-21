@@ -7,7 +7,7 @@
 ### Sobre Mim
 
 - 27 anos, brasileira 🇧🇷  
-- Desenvolvedora focada em backend e estagiária na área de **Business Intelligence (BI)**  
+- Desenvolvedora focada em backend e entusiasta da área de dados
 - Atualmente aprendendo **TypeScript**, **Flask** e **Verilog**  
 - 📫 Contato: santosfranciscalorrayne@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
