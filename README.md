@@ -9,7 +9,7 @@
 - 27 anos, brasileira 🇧🇷  
 - Apaixonada por **dados, inteligência artificial e automação**  
 - Experiência com **Python, análise de dados e Power BI**  
-- Atualmente aprendendo **TypeScript**, **Flask** e **Verilog**  
+- Atualmente aprendendo **TypeScript**, **Flask** e **Django**  
 - 📫 Contato: santosfranciscalorrayne@gmail.com  
 - 🌐 [Portfólio](https://franciscalorraynes.github.io/portfolio-lorrayne/)  
 - [LinkedIn](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
