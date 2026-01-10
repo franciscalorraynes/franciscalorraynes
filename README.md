@@ -4,7 +4,7 @@
 
 ---
 
-### Sobre Mim
+## Sobre Mim
 
 - 27 anos, brasileira 🇧🇷  
 - Apaixonada por **dados, inteligência artificial e automação**  
@@ -12,11 +12,11 @@
 - Atualmente aprendendo **TypeScript**, **Flask** e **Django**  
 - 📫 Contato: santosfranciscalorrayne@gmail.com  
 - 🌐 [Portfólio](https://franciscalorraynes.github.io/portfolio-lorrayne/)  
-- [LinkedIn](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 ### Linguagens e Principais Tecnologias
 
@@ -43,15 +43,16 @@
 
 ---
 
-### Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=franciscalorraynes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscalorraynes&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franciscalorraynes&layout=compact&theme=radical"/>
 </div>
 
 ---
 
-## Contatos
+## 📬 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosfranciscalorrayne@gmail.com)
