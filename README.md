@@ -1,20 +1,21 @@
-# 👋 Olá! Eu sou Francisca Lorrayne  
+# 👋 Olá! Eu sou Francisca Lorrayne
 
-**Data & BI | Python Developer | IA & Automação**
+Data & BI | Python Developer | IA & Automação  
 
 ---
 
-## ✨ Sobre mim  
+## Sobre mim  
 
-- 27 anos, brasileira 🇧🇷  
-- Entusiasta de **dados, inteligência artificial e automação**  
-- Experiência com **Python, análise de dados e Power BI**
-- Atualmente aprofundando conhecimentos em **Django (back-end)**  
+- 27 anos, brasileira  
+- Interesse em dados, inteligência artificial e automação  
+- Experiência com Python, análise de dados e Power BI  
+- Atualmente aprofundando conhecimentos em Django (back-end)  
+
 ---
 
-## 🛠️ Skills  
+## Skills  
 
-### 💻 Linguagens e Tecnologias Principais  
+### Linguagens e Tecnologias Principais  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -27,30 +28,29 @@
 
 ---
 
-### 📊 Dados, BI e IA  
+### Dados, BI e IA  
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 🤖 Automação e RPA  
+### Automação e RPA  
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
-### ⚙️ Frameworks  
+### Frameworks  
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-### 🧰 Ferramentas de Desenvolvimento  
+### Ferramentas de Desenvolvimento  
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## Estatísticas do GitHub  
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=franciscalorraynes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -66,9 +66,8 @@
 </div>
 
 ---
-
-## 📬 Contatos  
+## Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisca-lorrayne-588165227/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosfranciscalorrayne@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosfranciscalorrayne@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://franciscalorraynes.github.io/portfolio-lorrayne/)
