@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Francisca Lorrayne
 
-Data & BI | Python Developer | IA & Automação  
+Data & BI | Python Developer | Automação  
 
 ---
 
