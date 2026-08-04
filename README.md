@@ -6,7 +6,7 @@ Data & BI | Python Developer | Automação
 
 ## Sobre mim  
 
-- 27 anos, brasileira  
+- 28 anos, brasileira  
 - Interesse em dados, inteligência artificial e automação  
 - Experiência com Python, análise de dados e Power BI  
 - Atualmente aprofundando conhecimentos em Django (back-end)  
